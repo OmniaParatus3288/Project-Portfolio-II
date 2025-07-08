@@ -223,17 +223,6 @@ sudo chmod 400 /var/www/wp-config.php
 
 ---
 
-## 📄 Audit Documentation
-
-Included in this repo:
-
-- Network topology diagrams
-- Command references
-- Configuration files (e.g. NginX configs, `.htaccess` rules)
-- Security validation steps
-
----
-
 ## 🎓 LinkedIn Certifications Earned
 
 During this course, I completed:
