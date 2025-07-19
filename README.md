@@ -1,4 +1,4 @@
-# Project & Portfolio II: Information Technology
+# Project & Portfolio II: Virtualized-webstack-blueprint
 
 Welcome to my Project & Portfolio II repository! This project reflects the work I completed at Full Sail University, where I designed and implemented a multi-server network solution with web, database, and application services using virtualization, cloud concepts, and strong security practices.
 
